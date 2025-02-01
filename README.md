@@ -14,13 +14,13 @@ This is a link to my profile https://techwizard52.com/
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Project Name]
+- 🔭 I’m currently working on AI Automation process using terraform and kubernetes
 - 🌱 I’m currently learning [Technologies or Skills]
 - 👯 I’m looking to collaborate on [Projects or Ideas]
 - 🤔 I’m looking for help with [Specific Area or Technology]
 - 💬 Ask me about [Topics or Technologies]
-- 📫 How to reach me: [Your Email or Social Media]
-- ⚡ Fun fact: [Something Interesting About You]
+- 📫 How to reach me: [www.techwizard52.com]
+- ⚡ Fun fact: [Love nature and photography]
 
 ## My Skills
 
