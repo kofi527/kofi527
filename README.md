@@ -1,6 +1,5 @@
 
-
-Hi Am DAVID KENNETH ABOAGYE,
+# Hi there, I'm DAVID KENNETH ABOAGYE! 👋
 Am an experienced IT Professional with over 8 years experience in the following roles
       1. Devops and cloud developments works
         Terraform, Kubernetes, Ansible, Prometheus etc
@@ -8,19 +7,15 @@ Am an experienced IT Professional with over 8 years experience in the following 
         python,Java,Dart, Firebase, 
         api,
 This is a link to my profile https://techwizard52.com/
-# Hi there, I'm DAVID KENNETH ABOAGYE! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=kofi527&color=blue&style=flat-square)
-
-## About Me
 
 - 🔭 I’m currently working on AI Automation process using terraform and kubernetes
 - 🌱 I’m currently learning [Technologies or Skills]
 - 👯 I’m looking to collaborate on [Projects or Ideas]
-- 🤔 I’m looking for help with [Specific Area or Technology]
 - 💬 Ask me about [Topics or Technologies]
 - 📫 How to reach me: [www.techwizard52.com]
 - ⚡ Fun fact: [Love nature and photography]
+
+- [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=kofi527&layout=compact&theme=buefy)](https://github.com/KasRoudra/github-stats-card)
 
 ## My Skills
 
