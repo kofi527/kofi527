@@ -1,5 +1,5 @@
 
-# Hi there, I'm DAVID KENNETH ABOAGYE! 👋
+### I'm DAVID KENNETH ABOAGYE! 👋
     
 ## 🌐 Socials:
 # 💫 About Me:
